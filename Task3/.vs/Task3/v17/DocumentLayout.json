@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tasks\\Task3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{240AD04E-E1AD-E09D-3615-55C7384E552B}|Assembly-CSharp.csproj|D:\\Tasks\\Task3\\assets\\challenge 1\\scripts\\followplayerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240AD04E-E1AD-E09D-3615-55C7384E552B}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 1\\scripts\\followplayerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240AD04E-E1AD-E09D-3615-55C7384E552B}|Assembly-CSharp.csproj|D:\\Tasks\\Task3\\assets\\challenge 1\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240AD04E-E1AD-E09D-3615-55C7384E552B}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 1\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240AD04E-E1AD-E09D-3615-55C7384E552B}|Assembly-CSharp.csproj|d:\\tasks\\task3\\assets\\challenge 1\\scripts\\propellerrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240AD04E-E1AD-E09D-3615-55C7384E552B}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 1\\scripts\\propellerrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240AD04E-E1AD-E09D-3615-55C7384E552B}|Assembly-CSharp.csproj|D:\\Tasks\\Task3\\assets\\challenge 1\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240AD04E-E1AD-E09D-3615-55C7384E552B}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 1\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LevelManager.cs",
+              "DocumentMoniker": "D:\\Tasks\\Task3\\Assets\\Challenge 1\\Scripts\\LevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 1\\Scripts\\LevelManager.cs",
+              "ToolTip": "D:\\Tasks\\Task3\\Assets\\Challenge 1\\Scripts\\LevelManager.cs",
+              "RelativeToolTip": "Assets\\Challenge 1\\Scripts\\LevelManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T22:47:45.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PropellerRotation.cs",
+              "DocumentMoniker": "D:\\Tasks\\Task3\\Assets\\Challenge 1\\Scripts\\PropellerRotation.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 1\\Scripts\\PropellerRotation.cs",
+              "ToolTip": "D:\\Tasks\\Task3\\Assets\\Challenge 1\\Scripts\\PropellerRotation.cs",
+              "RelativeToolTip": "Assets\\Challenge 1\\Scripts\\PropellerRotation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T22:22:26.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerControllerX.cs",
+              "DocumentMoniker": "D:\\Tasks\\Task3\\Assets\\Challenge 1\\Scripts\\PlayerControllerX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 1\\Scripts\\PlayerControllerX.cs",
+              "ToolTip": "D:\\Tasks\\Task3\\Assets\\Challenge 1\\Scripts\\PlayerControllerX.cs",
+              "RelativeToolTip": "Assets\\Challenge 1\\Scripts\\PlayerControllerX.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T22:05:47.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FollowPlayerX.cs",
+              "DocumentMoniker": "D:\\Tasks\\Task3\\Assets\\Challenge 1\\Scripts\\FollowPlayerX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 1\\Scripts\\FollowPlayerX.cs",
+              "ToolTip": "D:\\Tasks\\Task3\\Assets\\Challenge 1\\Scripts\\FollowPlayerX.cs",
+              "RelativeToolTip": "Assets\\Challenge 1\\Scripts\\FollowPlayerX.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T22:05:38.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
